@@ -1,0 +1,14 @@
+2025/11/06-14:01:40.067 3c70 Reusing MANIFEST C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\bin\Debug\net8.0-windows\Pansiyon Uygulaması.exe.WebView2\EBWebView\Default\IndexedDB\https_www.sozcu.com.tr_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/06-14:01:40.067 3c70 Recovering log #53
+2025/11/06-14:01:40.067 3c70 Reusing old log C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\bin\Debug\net8.0-windows\Pansiyon Uygulaması.exe.WebView2\EBWebView\Default\IndexedDB\https_www.sozcu.com.tr_0.indexeddb.leveldb/000053.log 
+2025/11/06-14:01:40.068 3c70 Delete type=2 #51
+2025/11/06-14:01:40.114 8b84 Level-0 table #58: started
+2025/11/06-14:01:40.119 8b84 Level-0 table #58: 650 bytes OK
+2025/11/06-14:01:40.124 8b84 Delete type=0 #53
+2025/11/06-14:01:40.125 6efc Manual compaction at level-0 from '\x00\x10\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x11\x00\x00\x00' @ 0 : 0; will stop at '\x00\x10\x00\x00\x05' @ 385 : 1
+2025/11/06-14:01:40.125 6efc Compacting 1@0 + 1@1 files
+2025/11/06-14:01:40.129 6efc Generated table #59@0: 46 keys, 1331 bytes
+2025/11/06-14:01:40.129 6efc Compacted 1@0 + 1@1 files => 1331 bytes
+2025/11/06-14:01:40.131 6efc compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/06-14:01:40.132 6efc Delete type=2 #58
+2025/11/06-14:01:40.132 6efc Manual compaction at level-0 from '\x00\x10\x00\x00\x05' @ 385 : 1 .. '\x00\x11\x00\x00\x00' @ 0 : 0; will stop at (end)

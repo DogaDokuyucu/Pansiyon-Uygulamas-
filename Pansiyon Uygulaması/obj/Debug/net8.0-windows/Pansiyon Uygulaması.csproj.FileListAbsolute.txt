@@ -1,0 +1,50 @@
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\bin\Debug\net8.0-windows\Pansiyon Uygulaması.exe
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\bin\Debug\net8.0-windows\Pansiyon Uygulaması.deps.json
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\bin\Debug\net8.0-windows\Pansiyon Uygulaması.runtimeconfig.json
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\bin\Debug\net8.0-windows\Pansiyon Uygulaması.dll
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\bin\Debug\net8.0-windows\Pansiyon Uygulaması.pdb
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\net8.0-windows\Pansiyon_Uygulaması.ana_sayfa_form.resources
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\net8.0-windows\Pansiyon_Uygulaması.giris_form.resources
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\net8.0-windows\Pansiyon_Uygulaması.yeni_musteri_form.resources
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\net8.0-windows\Pansiyon Uygulaması.csproj.GenerateResource.cache
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\net8.0-windows\Pansiyon Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\net8.0-windows\Pansiyon Uygulaması.AssemblyInfoInputs.cache
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\net8.0-windows\Pansiyon Uygulaması.AssemblyInfo.cs
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\net8.0-windows\Pansiyon Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\net8.0-windows\Pansiyon Uygulaması.dll
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\net8.0-windows\refint\Pansiyon Uygulaması.dll
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\net8.0-windows\Pansiyon Uygulaması.pdb
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\net8.0-windows\Pansiyon Uygulaması.genruntimeconfig.cache
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\net8.0-windows\ref\Pansiyon Uygulaması.dll
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\net8.0-windows\Pansiyon Uygulaması.csproj.AssemblyReference.cache
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\net8.0-windows\Pansiyon_Uygulaması.odalar_form.resources
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\net8.0-windows\Pansiyon.92ED40E9.Up2Date
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\net8.0-windows\Pansiyon_Uygulaması.musteriler_form.resources
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\net8.0-windows\Pansiyon_Uygulaması.gelir_gider_form.resources
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\net8.0-windows\Pansiyon_Uygulaması.stoklar_form.resources
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\bin\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\bin\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\net8.0-windows\Pansiyon Uygulaması.csproj.ResolveComReference.cache
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\net8.0-windows\Pansiyon_Uygulaması.radyo_form.resources
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\net8.0-windows\Pansiyon_Uygulaması.gazete_form.resources
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.xml
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\net8.0-windows\Pansiyon_Uygulaması.mesaj_form.resources
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\net8.0-windows\Pansiyon_Uygulaması.sifre_form.resources
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\net8.0-windows\Pansiyon_Uygulaması.hakkimizda_form.resources
+C:\Users\dogad\source\repos\Pansiyon Uygulaması\Pansiyon Uygulaması\obj\Debug\net8.0-windows\Pansiyon_Uygulaması.Properties.Resources.resources
